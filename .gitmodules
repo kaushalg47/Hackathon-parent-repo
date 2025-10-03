@@ -1,3 +1,6 @@
 [submodule "vertex-tester-webapp"]
 	path = vertex-tester-webapp
 	url = https://github.com/sivatejaswi27/vertex-tester-webapp.git
+[submodule "vertex-tester"]
+	path = vertex-tester
+	url = https://github.com/MonishAnand10/vertex-tester.git
