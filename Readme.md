@@ -2,7 +2,7 @@
 
 TarGETs is a team-driven project to build an AI-assisted unit tester application. The parent repository serves as a central orchestrator and includes two sources to access the engine via submodules:
 - VS Code extension engine: vertex-tester
-- Hosted web application: vertex-tester-webapp
+- Hosted web application: vertex-tester-webapp (hosted on GCP: *https://vertex-test-app-398754751300.asia-south1.run.app/*)
 
 This repository uses Git submodules to include both sources.
 
